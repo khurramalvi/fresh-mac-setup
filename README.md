@@ -204,6 +204,13 @@ alias lta2="eza -lTag --level=2 --icons"
 alias lta3="eza -lTag --level=3 --icons"
 ```
 
+## Dotfiles
+
+I have compiled the dotfiles that are available for download in the appropriate directories.
+
+Git: [GitConfig](git/.gitconfig) and [GitIgnore](git/.gitignore)
+Zsh: [Zshrc](zshrc/.zshrc)
+
 ## Install Softwares
 
 There are three effective methods for installing software on macOS:
