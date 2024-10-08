@@ -208,8 +208,8 @@ alias lta3="eza -lTag --level=3 --icons"
 
 I have compiled the dotfiles that are available for download in the appropriate directories.
 
-Git: [GitConfig](git/.gitconfig) and [GitIgnore](git/.gitignore)\
-Zsh: [Zshrc](zshrc/.zshrc)
+* Git: [GitConfig](git/.gitconfig) and [GitIgnore](git/.gitignore)\
+* Zsh: [Zshrc](zshrc/.zshrc)
 
 ## Install Softwares
 
