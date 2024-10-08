@@ -75,7 +75,7 @@ The latest MacBook equipped with the M chip comes with Zsh pre-installed. Execut
 zsh --version
 ```
 
-If you have already installed Zsh, be sure to add the path to your .zshrc file.
+After confirming that zsh is installed on your system, include its path in your .zshrc file.
 
 ```
 echo 'export PATH="/usr/local/sbin:$PATH"' >> ~/.zshrc
@@ -89,7 +89,7 @@ Developers spend most of their time in the terminal, yet the default Mac Termina
 
 Warp revolutionises the terminal experience by integrating AI and your development team's knowledge seamlessly. It boasts auto-suggestions, syntax highlighting, and advanced features often lacking in other terminals or require cumbersome plugins to install.
 
-[Click here](https://app.warp.dev/get_warp?package=dmg) to download Warp to elevate your terminal experience or if you prefer the command line, install it using Brew.
+[Click here](https://app.warp.dev/get_warp?package=dmg) to download Warp to elevate your terminal experience or if you prefer the command line, install it using Homebrew.
 
 ```
 brew install --cask warp
@@ -133,6 +133,8 @@ Once Warp has been reloaded, modify the following Warp settings:
 Appearance > Prompt > Select "Honor custom user prompt (PS1)"
 ```
 
+![Warp prompt selection](/images/warp-select-prompt.png "Warp prompt selection")
+
 #### Customise Starship
 
 To get started configuring starship, create the following file: ~/.config/starship.toml.
@@ -164,6 +166,8 @@ Reload the Warp, and modify the following Warp settings:
 ```
 Appearance > Text > Terminal font > Hack Nerd Font Mono
 ```
+
+![Warp font selection](/images/warp-select-font.png "Warp font selection")
 
 To add "Gruvbox Rainbow" to your Starship configuration, use the following command:
 
