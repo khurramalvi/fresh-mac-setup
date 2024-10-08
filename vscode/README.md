@@ -52,6 +52,8 @@ Next, simply paste the following settings into the JSON file:
 }
 ```
 
+![VSCode user setting json](/images/user-setting-json.png "VSCode user setting json")
+
 ## Extensions
 
 The goal is to install minimal extensions while maximising the use of native VS Code features. Below is a curated list of extensions designed to help you get the most out of your VS Code experience.

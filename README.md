@@ -177,7 +177,7 @@ starship preset gruvbox-rainbow -o ~/.config/starship.toml
 
 ### Install [Eza](https://eza.rocks/)
 
-An Eza is a modern, colourful ‘ls’ replacement with better defaults and features.
+An Eza is a modern, colourful 'ls' replacement with better defaults and features.
 
 To install Eza, please execute the command below:
 
@@ -828,6 +828,8 @@ Add separators to dockbar
 ```
 defaults write com.apple.dock persistent-apps -array-add '{ "tile-type" = "spacer-tile"; }'; Killall Dock
 ```
+
+![Mac dock](/images/mac-dock.png "Mac dock")
 
 Add recent files stack to dockbar
 
