@@ -6,117 +6,150 @@ The terminal commands allows you to automate tasks, access system features, trou
 
 <br />
 
-## Terminal
+## Shortcuts
 
-| Key/Command                                 | Description      |
+| Key                                         | Description      |
 | --------                                    | --------         |
-| <kbd>⇥ Tab</kbd>                            | Auto-complete files and folder names                           |
-| <kbd>⌃ Control</kbd> + <kbd>A</kbd>         | Go to the beginning of the line you are currently typing on    |
-| <kbd>⌃ Control</kbd> + <kbd>E</kbd>	        | Go to the end of the line you are currently typing on          |
-| <kbd>⌃ Control</kbd> + <kbd>U</kbd>	        | Clear the line before the cursor                               |
-| <kbd>⌃ Control</kbd> + <kbd>K</kbd>	        | Clear the line after the cursor                                |
-| <kbd>⌃ Control</kbd> + <kbd>W</kbd>	        | Delete the word before the cursor                              |
-| <kbd>⌃ Control</kbd> + <kbd>T</kbd>	        | Swap the last two characters before the cursor                 |
-| <kbd>⌃ Control</kbd> + <kbd>R</kbd>	        | Lets you search through previously used commands               |
-| <kbd>⌃ Control</kbd> + <kbd>L</kbd>	        | Clears the Screen                                              |
-| <kbd>⌘ Command</kbd> + <kbd>K</kbd>	        | Clears the Screen                                              |
-| <kbd>⌃ Control</kbd> + <kbd>C</kbd>	        | Kill whatever you are running                                  |
-| <kbd>⌃ Control</kbd> + <kbd>D</kbd>	        | Exit the current shell                                         |
-| <kbd>⎋ Escape</kbd> + <kbd>T</kbd>	        | Swap the last two words before the cursor                      |
+| <kbd>⇥ Tab</kbd>                            | Auto-complete files and folder names  |
+| <kbd>⌃ Control</kbd> + <kbd>A</kbd>         | Go to the beginning of the line you are currently typing on. This also works for most text input fields system wide. Netbeans being one exception |
+| <kbd>⌃ Control</kbd> + <kbd>E</kbd>         | Go to the end of the line you are currently typing on. This also works for most text input fields system wide. Netbeans being one exception |
+| <kbd>⌃ Control</kbd> + <kbd>L</kbd>         | Clears the screen |
+| <kbd>⌘ Command</kbd> + <kbd>K</kbd>         | Clears the Screen |
+| <kbd>⌃ Control</kbd> + <kbd>U</kbd>         | Cut everything backwards to beginning of line |
+| <kbd>⌃ Control</kbd> + <kbd>K</kbd>         | Cut everything forward to end of line |
+| <kbd>⌃ Control</kbd> + <kbd>W</kbd>         | Cut one word backwards using white space as delimiter |
+| <kbd>⌃ Control</kbd> + <kbd>Y</kbd>         | Paste whatever was cut by the last cut command |
+| <kbd>⌃ Control</kbd> + <kbd>H</kbd>         | Same as backspace |
+| <kbd>⌃ Control</kbd> + <kbd>C</kbd>         | Kill whatever you are running. Also clears everything on current line |
+| <kbd>⌃ Control</kbd> + <kbd>D</kbd>         | Exit the current shell when no process is running, or send EOF to a the running process |
+| <kbd>⌃ Control</kbd> + <kbd>Z</kbd>         | Puts whatever you are running into a suspended background process. fg restores it |
+| <kbd>⌃ Control</kbd> + <kbd>_</kbd>         | Undo the last command. (Underscore. So it's actually <kbd>⌃ Control</kbd> + <kbd>⇧ Shift</kbd> + <kbd>-</kbd>) |
+| <kbd>⌃ Control</kbd> + <kbd>T</kbd>         | Swap the last two characters before the cursor |
+| <kbd>⌃ Control</kbd> + <kbd>F</kbd>         | Move cursor one character forward |
+| <kbd>⌃ Control</kbd> + <kbd>B</kbd>         | Move cursor one character backward |
+| <kbd>⌥ Option</kbd> + <kbd>→</kbd>          | Move cursor one word forward |
+| <kbd>⌥ Option</kbd> + <kbd>←</kbd>          | Move cursor one word backward |
+| <kbd>⎋ Escape</kbd> + <kbd>T</kbd>          | Swap the last two words before the cursor |
+| <kbd>⎋ Escape</kbd> + <kbd>⌫ Delete</kbd>   | Cut one word backwards using none alphabetic characters as delimiters |
 
 <br />
 
-## Core Commands
+## Essentials
 
-| Key/Command                                 | Description      |
+| Command                                     | Description      |
 | --------                                    | --------         |
-| CD                                          | Home directory                                                 |
-| CD [folder]                                 | Change directory                                               |
-| CD ~                                        | Home directory, e.g. 'cd ~/folder/'                            |
-| CD /                                        | Root of drive                                                  |
-| LS                                          | Short listing                                                  |
-| LS -R                                       | Long listing                                                   |
-| LS -A                                       | Listing incl. hidden files                                     |
-| LS -LH                                      | Long listing with Human readable file sizes files              |
-| LS -R                                       | Entire content of folder recursively                           |
-| Sudo [Command]                   | Run command with the security privileges of the superuser (Super User DO) |
-| Open [file]                                 | Opens a file                                                   |
-| Open .                                      | Opens the directory                                            |
-| Top                                         | Displays active processes. Press q to quit                     |
-| Nano [file]                                 | Opens the Terminal it's editor                                 |
-| Pico [file]                                 | Opens the Terminal it's editor                                 |
-| <kbd>Q</kbd>                                | Exit                                                           |
-| Clear                                       | Clear screen                                                   |
+| cd [folder]                                 | Change directory e.g. 'cd Documents' |
+| cd                                          | Home directory |
+| cd ~                                        |  Home directory |
+| cd /                                        | Root of drive |
+| cd -                                        | Previous directory |
+| ls                                          | Short listing |
+| ls -l                                       | Long listing |
+| ls -a                                       | Listing incl. hidden files |
+| ls -lh                                      | Long listing with Human readable file sizes |
+| ls -R                                       | Entire content of folder recursively |
+| sudo [command]                              | Run command with the security privileges of the superuser (Super User DO) |
+| open [file]                                 | Opens a file ( as if you double clicked it ) |
+| top                                         | Displays active processes. Press q to quit |
+| nano [file]                                 | Opens the file using the nano editor |
+| vim [file]                                  | Opens the file using the vim editor |
+| clear                                       |  Clears the screen |
+| reset                                       |  Resets the terminal display |
 
 <br />
 
-## Command History
+## Chaining
 
-| Key/Command                                 | Description      |
+| Command                                     | Description      |
 | --------                                    | --------         |
-| History <kbd>N</kbd>                        | Shows the stuff typed - add a number to limit the last n items |
-| <kbd>⌃ Control</kbd> + <kbd>R</kbd>         | Interactively search through previously typed commands         |
-| <kbd>!</kbd>[value]                         | Execute the last command typed that starts with 'value'        |
-| <kbd>!!</kbd>                               | Execute the last command typed                                 |
+| [command-a]; [command-b]                    | Run command A and then B, regardless of success of A |
+| [command-a] && [command-b]                  | Run command B if A succeeded |
+| [command-a] \|\| [command-b]                | Run command B if A failed |
+| [command-a] &                               | Run command A in background |
+
+<br />
+
+## Piping
+
+| Command                                     | Description      |
+| --------                                    | --------         |
+| [command-a] \| [command-b]                  | Run command A and then pass the result to command B e.g ps auxwww \| grep google |
+
+<br />
+
+## History
+
+| Command                                     | Description      |
+| --------                                    | --------         |
+| history n                                   |  Shows the stuff typed - add a number to limit the last n items |
+| Ctrl + r                                    | Interactively search through previously typed commands |
+| ![value]                                    |  Execute the last command typed that starts with 'value' |
+| ![value]:p                                  |  Print to the console the last command typed that starts with 'value' |
+| !!                                          |  Execute the last command typed |
+| !!:p                                        |  Print to the console the last command typed |
 
 <br />
 
 ## File Management
 
-| Key/Command                                 | Description      |
+| Command                                     | Description      |
 | --------                                    | --------         |
-| Touch [file]                                | Create new file                                                |
-| Pwd                                         | Full path to working directory                                 |
-| ..                                          | Parent/enclosing directory, e.g.                               |
-| LS -L ..                                    | Long listing of parent directory                               |
-| CD ../../	                                  | Move 2 levels up                                               |
-| .	                                          | Current folder                                                 |
-| CAT	                                        | Concatenate to screen                                          |
-| RM [file]	                                  | Remove a file, e.g. rm [file] [file]                           |
-| RM -I [file]	                              | Remove with confirmation                                       |
-| RM -R [dir]	                                | Remove a directory and contents                                |
-| RM -F [file]	                              | Force removal without confirmation                             |
-| RM -I [file]	                              | Will display prompt before                                     |
-| Sudo RM -RF ~/.Trash/*	                    | Empty trash                                                    |
-| CP [file] [newfile]	                        | Copy file to file                                              |
-| CP [file] [dir]   	                        | Copy file to directory                                         |
-| MV [file] [new filename]   	                | Move/Rename, e.g. mv -v /home/user/oldname /home/user/newname  |
-| CHMOD 600 [file]   	                        | Set file/directory permission, e.g. chmod 600 [dir] / [file]   |
-| MDFIND [file]	   	                          | Find full path of the file                                     |
+| touch [file]                                |   Create a new file |
+| pwd                                         | Full path to working directory |
+| .                                           |  Current folder, e.g. 'ls .' |
+| ..                                          | Parent/enclosing directory, e.g. 'ls ..' |
+| ls -l ..                                    | Long listing of parent directory |
+| cd ../../                                   | Move 2 levels up |
+| cat                                         | Concatenate to screen |
+| rm [file]                                   |  Remove a file, e.g. 'rm data.tmp' |
+| rm -i [file]                                | Remove with confirmation |
+| rm -r [dir]                                 | Remove a directory and contents |
+| rm -f [file]                                | Force removal without confirmation |
+| cp [file] [newfile]                         | Copy file to file |
+| cp [file] [dir]                             | Copy file to directory |
+| mv [file] [new filename]                    |  Move/Rename, e.g. 'mv file1.ad /tmp' |
+| pbcopy < [file]                             | Copies file contents to clipboard |
+| pbpaste                                     | Paste clipboard contents |
+| pbpaste > [file]                            | Paste clipboard contents into file, 'pbpaste > paste-test.txt' |
 
 <br />
 
 ## Directory Management
 
-| Key/Command                                 | Description      |
+| Command                                     | Description      |
 | --------                                    | --------         |
-| MKDIR [dir]                                 | Create new directory                                           |
-| MKDIR -P [dir]/[dir]                        | Create nested directories                                      |
-| RKDIR [dir]                                 | Remove directory (only operates on empty directories)          |
-| RM -R [dir]                                 | Remove directory and contents                                  |
-| RM -RF [dir]                                | Delete a whole folder and its content recursively              |
-| RM -RF*           | Delete all files/folders in the current directory, without deleting the directory itself |
+| mkdir [dir]                                 | Create new directory |
+| mkdir -p [dir]/[dir]                        |  Create nested directories |
+| rmdir [dir]                                 | Remove directory ( only operates on empty directories ) |
+| rm -R [dir]                                 | Remove directory and contents |
+| less [file]                                 |  Output file content delivered in screensize chunks |
+| [command] > [file]                          |  Push output to file, keep in mind it will get overwritten |
+| [command] >> [file]                         | Append output to existing file |
+| [command] < [file]                          |  Tell command to read content from a file |
 
 <br />
 
-## Pipes - Allows to combine multiple commands that generate output
+## Search
 
-| Key/Command                                 | Description      |
+| Command                                     | Description      |
 | --------                                    | --------         |
-| MORE                                        | Output content delivered in screensize chunks                  |
-| > [file]                                    | Push output to file, keep in mind it will get overwritten      |
-| >> [file]                                   | Append output to existing file                                 |
-| <                                           | Tell command to read content from a file                       |
+| find [dir] -name [search_pattern]           | Search for files, e.g. 'find /Users -name "file.txt"' |
+| grep [search_pattern] [file]                | Search for all lines that contain the pattern, e.g. 'grep "Tom" file.txt' |
+| grep -r [search_pattern] [dir]              | Recursively search in all files in specified directory for all lines that contain the pattern |
+| grep -v [search_pattern] [file]             | Search for all lines that do NOT contain the pattern |
+| grep -i [search_pattern] [file]             | Search for all lines that contain the case-insensitive pattern |
+| mdfind [search_pattern]                     | Spotlight search for files (names, content, other metadata), e.g. 'mdfind skateboard' |
+| mdfind -onlyin [dir] -name [pattern]        | Spotlight search for files named like pattern in the given directory |
 
 <br />
 
 ## Help
 
-| Key/Command                                 | Description      |
+| Command                                     | Description      |
 | --------                                    | --------         |
-| [command] -h                                | Offers help                                                    |
-| [command] --help                            | Offers help                                                    |
-| [command] help                              | Offers help                                                    |
-| reset                                       | Resets the terminal display                                    |
-| MAN [command]                               | Show the help for 'command'                                    |
-| WHATIS [command]                            | Gives a one-line description of 'command'                      |
+| [command] -h                                |  Offers help |
+| [command] --help                            | Offers help |
+| info [command]                              | Offers help |
+| man [command]                               |  Show the help manual for [command] |
+| whatis [command]                            | Gives a one-line description of [command] |
+| apropos [search-pattern]                    | Searches for command with keywords in description |
