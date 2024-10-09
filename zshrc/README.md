@@ -4,19 +4,19 @@ Let&#39;s create a .zshrc file to optimise our setup to house our aliases, expor
 
 Now, let&#39;s create a .zshrc file in the home directory.
 
-```
+```zsh
 cd ~
 ```
-```
+```zsh
 touch .zshrc
 ```
-```
+```zsh
 open .zshrc
 ```
 
 The following is the configuration that will go into the .zshrc file.
 
-```
+```zsh
 # Zsh path
 # ------------------------------------------------------------------------------
 export PATH="/usr/local/sbin:$PATH"
