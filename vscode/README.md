@@ -2,12 +2,16 @@
 
 Visual Studio Code is a versatile, cross-platform source code editor that boasts an array of robust development tools. It features IntelliSense for seamless code completion, comprehensive debugging capabilities, integrated Git support, and an inline terminal for enhanced productivity.
 
+<br />
+
 ## Learn VS Code
 
 * To begin your journey with Visual Studio Code, explore their extensive [documentation](https://code.visualstudio.com/docs/).
 * Click here to learn how VSCode [Workspaces works](https://www.youtube.com/watch?v=iLmQ52IIrvM).
 * [Emmet](https://code.visualstudio.com/docs/editor/emmet) has been integrated into VS Code. [Click here](https://youtu.be/V8vizNQKtx0?si=Nb51inVxUKyDhgyJ) to learn how to use Emmet, and its shortcuts by visiting this [cheat sheet link](https://docs.emmet.io/cheat-sheet/).
 * [Click here](https://youtu.be/_VpuYH3HU9s?si=mf2K4SgRA6INbtg7) to learn how to view markdown preview in VS Code.
+
+<br />
 
 ## Tweaks
 
@@ -25,6 +29,8 @@ Add the following path to resolve the error:
 ```
 "php.executablePath": "/Applications/MAMP/bin/php/php8.2.0/bin/php" 
 ```
+
+<br />
 
 ## User Settings
 
@@ -54,6 +60,8 @@ Next, simply paste the following settings into the JSON file:
 
 ![VSCode user setting json](/images/user-setting-json.png "VSCode user setting json")
 
+<br />
+
 ## Extensions
 
 The goal is to install minimal extensions while maximising the use of native VS Code features. Below is a curated list of extensions designed to help you get the most out of your VS Code experience.
@@ -69,6 +77,7 @@ The goal is to install minimal extensions while maximising the use of native VS 
 - [ ] [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 - [ ] [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 
+<br />
 
 ## AI Assistants
 

@@ -9,6 +9,8 @@ To streamline your workflow and eliminate the need to enter your password each t
 
 To create your SSH key, you can refer to the [YouTube tutorial](https://www.youtube.com/watch?v=snCP3c7wXw0) or simply follow the detailed steps outlined below.
 
+<br />
+
 ## Generating a new SSH key
 
 * Open Terminal.
@@ -37,13 +39,19 @@ pbcopy < ~/.ssh/id_ed25519.pub
 
 Leverage the [GitHub Importer tool](https://docs.github.com/en/migrations/importing-source-code/using-github-importer/importing-a-repository-with-github-importer) to migrate your repository from Bitbucket to GitHub seamlessly.
 
+<br />
+
 ## Git Dotfiles
 
 I have created the Git config, and Git ignores dotfiles, which are available for download within this directory.
 
+<br />
+
 ## Learn Git and Github
 
 Discover the essential Git command line commands by [clicking here](https://quickref.me/git.html). Dive into  comprehensive series on [Git and GitHub](https://www.youtube.com/watch?v=HGJ4eb5A4Yo&list=PLbGui_ZYuhigWA1mNWzwErSBIZvgOJbNc), or if you don't like the command line, then learn Git with user-friendly [GUI clients](https://www.youtube.com/watch?v=S7XpTAnSDL4).
+
+<br />
 
 ## Frequently used Git Commands
 

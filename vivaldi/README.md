@@ -6,6 +6,8 @@ I switched to [Vivaldi](https://vivaldi.com), a Chromium-based browser that is l
 
 Below, I've outlined my Vivaldi setup, which you might find helpful.
 
+<br />
+
 ## Extensions
 
 The objective is to minimise the number of extensions while maximising the utilisation of Vivaldi's features. Below is a carefully curated selection of extensions to enhance your Vivaldi experience to its fullest potential.
