@@ -7,7 +7,7 @@ Visual Studio Code is a versatile, cross-platform source code editor that boasts
 ## Learn VS Code
 
 * To begin your journey with Visual Studio Code, explore their extensive [documentation](https://code.visualstudio.com/docs/).
-* Click here to learn how VSCode [Workspaces works](https://www.youtube.com/watch?v=iLmQ52IIrvM).
+* [Click here](https://www.youtube.com/watch?v=iLmQ52IIrvM) to learn how VSCode Workspaces works.
 * [Emmet](https://code.visualstudio.com/docs/editor/emmet) has been integrated into VS Code. [Click here](https://youtu.be/V8vizNQKtx0?si=Nb51inVxUKyDhgyJ) to learn how to use Emmet, and its shortcuts by visiting this [cheat sheet link](https://docs.emmet.io/cheat-sheet/).
 * [Click here](https://youtu.be/_VpuYH3HU9s?si=mf2K4SgRA6INbtg7) to learn how to view markdown preview in VS Code.
 
