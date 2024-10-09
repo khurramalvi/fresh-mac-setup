@@ -3,6 +3,8 @@ Setting up macOS for front-end development and product design can be streamlined
 
 If you're using an older machine and wish to reinstall macOS, follow the instructions in the "[Reinstall macOS](#reinstall-macOS)" section. However, if you're working with a fresh machine, feel free to skip this part and proceed directly to the "[Fresh Installation](#fresh-installation)" section.
 
+<br />
+
 ## Reinstall macOS
 
 Before you proceed with the reinstallation of macOS, it's crucial to back up any personal configurations you wish to retain. This includes your custom zsh scripts, aliases, git aliases, profile settings, terminal color profiles, browser bookmarks, and any other important configurations.
@@ -10,6 +12,8 @@ Before you proceed with the reinstallation of macOS, it's crucial to back up any
 To reinstall macOS, ensure you have a wireless internet connection.
 
 Start by restarting your computer. As soon as you hear the Mac startup chime, press and hold <kbd>⌘ Command</kbd> + <kbd>R</kbd> to enter the Mac recovery system. Then, follow the instructions provided on the [Apple website](https://support.apple.com/en-gb/HT204904) for further guidance.
+
+<br />
 
 ## Fresh Installation
 
@@ -80,6 +84,8 @@ After confirming that zsh is installed on your system, include its path in your 
 ```
 echo 'export PATH="/usr/local/sbin:$PATH"' >> ~/.zshrc
 ```
+
+<br />
 
 ## Terminal Improvements
 
@@ -204,12 +210,16 @@ alias lta2="eza -lTag --level=2 --icons"
 alias lta3="eza -lTag --level=3 --icons"
 ```
 
+<br />
+
 ## Dotfiles
 
 I have compiled the dotfiles that are available for download in the appropriate directories.
 
 * Git: [GitConfig](git/.gitconfig) and [GitIgnore](git/.gitignore)
 * Zsh: [Zshrc](zshrc/.zshrc)
+
+<br />
 
 ## Install Softwares
 
@@ -825,6 +835,8 @@ brew install --cask radio-silence
 ```
 brew install --cask screaming-frog-seo-spider
 ```
+
+<br />
 
 ## Optional Mac modifications
 
