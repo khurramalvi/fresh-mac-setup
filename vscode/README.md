@@ -42,7 +42,7 @@ Launch the command palette by pressing <kbd>⌘ Command</kbd> + <kbd>⇧ Shift</
 
 Next, simply paste the following settings into the JSON file:
 
-```
+```json
 {
   "security.workspace.trust.untrustedFiles": "open",
   "workbench.startupEditor": "none",
