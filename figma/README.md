@@ -46,5 +46,5 @@ As AI continues to evolve, several third-party plugins have emerged that empower
 
 Figma is an exceptional design tool, and its advanced features, like variables and layers, empower you to craft striking designs and highly realistic prototypes. If you're utilising Figma to create products, establishing a design system is essential, and every design system is incomplete without icons. While developing a cohesive design system and pixel-perfect icons can be labour-intensive, some talented designers have already tackled this challenge, simplifying the journey for you. I prefer to create my design systems and icons rather than relying on third-party resources. However, I explore these available systems to learn innovative techniques to enhance my productivity, which you might also find helpful.
 
-- [ ] Design system: [Untitled UI kit](https://www.untitledui.com/)
-- [ ] Icon library: [Untitled UI icons](https://www.untitledui.com/icons)
+- [ ] Design system 💲: [Untitled UI kit](https://www.untitledui.com/)
+- [ ] Icon library 💲: [Untitled UI icons](https://www.untitledui.com/icons)
