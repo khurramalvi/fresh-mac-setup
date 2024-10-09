@@ -1,7 +1,7 @@
 # Fresh MacOS Setup
 Setting up macOS for front-end development and product design can be streamlined and organised.
 
-If you're using an older machine and wish to reinstall macOS, follow the instructions in the "[Reinstall macOS](#reinstall-macOS)" section. However, if you're working with a fresh machine, feel free to skip this part and proceed directly to the "[Fresh Installation](#fresh-installation)" section.
+If you're using an older machine and wish to reinstall macOS, follow the instructions in the [Reinstall macOS](#reinstall-macOS) section. However, if you're working with a fresh machine, feel free to skip this part and proceed directly to the [Fresh Installation](#fresh-installation) section.
 
 <br />
 
