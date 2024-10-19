@@ -589,6 +589,12 @@ brew install --cask github
 brew install --cask sketch
 ```
 
+- [ ] Framer 💲: [Website](https://www.framer.com/) | [Mac](https://www.framer.com/downloads/) | [Windows](https://www.framer.com/downloads/)
+
+```zsh
+brew install --cask framer
+```
+
 - [ ] Sketch Mightnight 💲: [Website](https://midnightsketch.com/) | [Mac](https://midnightsketch.com/)
 - [ ] Sketch Confetti Plugin 💲: [Website](https://sketchconfetti.com/) | [Mac](https://sketchconfetti.com/)
 - [ ] Pixelmator Pro 💲: [Website](https://www.pixelmator.com/pro/) | [Mac](https://apps.apple.com/gb/app/pixelmator-pro/id1289583905?mt=12) | [iPhone](https://apps.apple.com/us/app/pixelmator/id924695435?ign-mpt=uo%3D4)
