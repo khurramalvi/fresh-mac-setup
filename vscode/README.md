@@ -70,7 +70,6 @@ The goal is to install minimal extensions while maximising the use of native VS 
 - [ ] [px to rem](https://marketplace.visualstudio.com/items?itemName=sainoba.px-to-rem), there is an excellent tutorial on using rem units instead of pixels to enhance component accessibility.
 - [ ] [Palenight Theme](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme)
 - [ ] [Minify](https://marketplace.visualstudio.com/items?itemName=HookyQR.minify)
-- [ ] [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify) 
 - [ ] [SSH FS](https://marketplace.visualstudio.com/items?itemName=Kelvin.vscode-sshfs)
 - [ ] [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 - [ ] [BEM Helper](https://marketplace.visualstudio.com/items?itemName=Box-Of-Hats.bemhelper)
