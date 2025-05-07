@@ -853,7 +853,7 @@ brew install --cask dropbox
 - [ ] OneDrive💲: [Website](https://www.microsoft.com/en-gb/microsoft-365/onedrive/online-cloud-storage) | [Mac](https://www.microsoft.com/en-gb/microsoft-365/onedrive/download) | [Windows](https://www.microsoft.com/en-gb/microsoft-365/onedrive/download) | [iPhone](https://apps.apple.com/us/app/microsoft-onedrive/id477537958) | [Android](https://play.google.com/store/apps/details?id=com.microsoft.skydrive&hl=en_GB&gl=US) | [Chrome](https://chrome.google.com/webstore/detail/onedrive/nffchahhjecejoiigmnhhicpoabngedk)
 
 ```zsh
-brew install onedrive
+brew install --cask onedrive
 ```
 
 ### Privacy
