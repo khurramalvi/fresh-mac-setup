@@ -214,6 +214,22 @@ alias lta3="eza -lTag --level=3 --icons"
 
 ## Dotfiles
 
+Check whether you already have the dotfiles.
+
+```zsh
+open .zshrc
+open .gitconfig
+open .gitignore
+```
+
+If you encounter an error in the terminal stating that the file doesn't exist, it's time to create the dotfiles.
+
+```zsh
+touch .zshrc
+touch .gitconfig
+touch .gitignore
+```
+
 I have compiled the dotfiles that are available for download in the appropriate directories.
 
 * Git: [GitConfig](git/.gitconfig) and [GitIgnore](git/.gitignore)
@@ -221,7 +237,7 @@ I have compiled the dotfiles that are available for download in the appropriate 
 
 <br />
 
-## Install Softwares
+## Install Software
 
 There are three effective methods for installing software on macOS:
 
