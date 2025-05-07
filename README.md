@@ -403,6 +403,8 @@ mas install 302584613
 brew install --cask pdf-expert
 ```
 
+- [ ] PDFgear: [Website](https://www.pdfgear.com) | [Mac](https://apps.apple.com/app/apple-store/id6469021132?os=mac&lang=en&cid=home_top_download_bar) | [Windows](https://www.pdfgear.com/pdfgear-for-windows/) | [iPhone](https://www.pdfgear.com/pdfgear-for-ios/) | [Android](https://www.pdfgear.com/pdfgear-for-android/)
+
 - [ ] LocalSend: [Website](https://localsend.org/) | [Mac](https://localsend.org/download) | [Windows](https://localsend.org/download) | [iPhone](https://localsend.org/download) | [Android](https://localsend.org/download)
 
 ```zsh
