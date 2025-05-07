@@ -525,7 +525,9 @@ brew install watchman
 brew install orbstack
 ```
 
-- [ ] Codekit 💲: [Website](https://codekitapp.com/) | [Mac](https://codekitapp.com/binaries/codekit.zip)
+- [ ] Codekit 💲: [Website](https://codekitapp.com/) | [Mac](https://codekitapp.com/updates/#34576)
+
+There are no active projects that use CodeKit, so the updates go up to version 3.27.
 
 ```zsh
 brew install --cask codekit
