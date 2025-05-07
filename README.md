@@ -212,6 +212,20 @@ alias lta3="eza -lTag --level=3 --icons"
 
 <br />
 
+### Install Git: [Website](https://git-scm.com/) | [Mac](https://git-scm.com/download/mac) | [Windows](https://git-scm.com/download/win) | [Linux](https://git-scm.com/download/linux)
+
+Git is a free, open-source distributed version control system that manages projects of all sizes efficiently.
+
+To install Git, please execute the command below:
+
+- [ ] 
+
+```zsh
+brew install git
+```
+
+<br />
+
 ## Dotfiles
 
 Check whether you already have the dotfiles.
@@ -259,18 +273,11 @@ Note: You can discover the compatibility of Homebrew packages with your macOS ve
 brew install mas
 ```
 
-- [ ] Git: [Website](https://git-scm.com/) | [Mac](https://git-scm.com/download/mac) | [Windows](https://git-scm.com/download/win) | [Linux](https://git-scm.com/download/linux)
-
-```zsh
-brew install git
-```
-
 - [ ] Wget: [Website](https://www.gnu.org/software/wget/) | [Windows](https://ftp.gnu.org/gnu/wget/)
 
 ```zsh
 brew install wget
 ```
-
 
 ### Utitlies
 
@@ -414,6 +421,12 @@ mas install 1398373917
 
 ```zsh
 brew install --cask 1password
+```
+
+- [ ] Locker Password Manager 💲: [Website](https://locker.io) | [Mac](https://locker.io/passwords/download#macos)  | [Windows](https://locker.io/passwords/download#windows)  | [Linux](https://locker.io/passwords/download#linux) | [iPhone](https://locker.io/passwords/download#ios) | [Android](https://locker.io/passwords/download#android) | [Chrome](https://chrome.google.com/webstore/detail/locker-password-manager/cmajindocfndlkpkjnmjpjoilibjgmgh) | [FireFox](https://addons.mozilla.org/en-US/firefox/addon/locker-password-manager/) | [Edge](https://chrome.google.com/webstore/detail/locker-password-manager/cmajindocfndlkpkjnmjpjoilibjgmgh)
+
+```zsh
+curl -s "https://locker.io/scripts/lockerpm-macos-installer.sh" | bash
 ```
 
 - [ ] Boom 2 💲: [Website](https://www.globaldelight.com/) | [Mac](https://www.globaldelight.com/boom/) | [Windows](https://www.globaldelight.com/boom/) | [iPhone](https://apps.apple.com/us/app/boom-music-player-equalizer/id1065511007) | [Android](https://play.google.com/store/apps/details?id=com.globaldelight.boom&hl=en) | [Chrome](https://chrome.google.com/webstore/detail/boom3d-51-surround-for-ne/ndjhebiohmanieefhnhcmlbflfljmhdn?hl=en&authuser=0)
