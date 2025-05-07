@@ -346,6 +346,12 @@ brew install --cask lg-onscreen-control
 brew install --cask cleanmymac
 ```
 
+* AppCleaner: [Website](https://freemacsoft.net/appcleaner/) | [Mac](https://freemacsoft.net/appcleaner/)
+
+```zsh
+brew install --cask appcleaner
+```
+
 - [ ] Feedly: [Website](https://feedly.com/) | [iPhone](https://apps.apple.com/us/app/feedly-smart-news-reader/id396069556) | [Android](https://play.google.com/store/apps/details?id=com.devhd.feedly)
 * Kaleidoscope 💲: [Website](https://kaleidoscope.app/) | [Mac v2](https://kaleidoscope.app/support)
 
