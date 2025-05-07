@@ -40,6 +40,8 @@ To access the User Settings:
 
 Launch the command palette by pressing <kbd>⌘ Command</kbd> + <kbd>⇧ Shift</kbd> + <kbd>P</kbd> and enter "Open User Settings (JSON)."
 
+![VSCode user setting json](/images/user-setting-json.png "VSCode user setting json")
+
 Next, simply paste the following settings into the JSON file:
 
 ```json
@@ -57,8 +59,6 @@ Next, simply paste the following settings into the JSON file:
   "php.validate.executablePath": "/Applications/MAMP/bin/php/php8.2.0/bin/php"
 }
 ```
-
-![VSCode user setting json](/images/user-setting-json.png "VSCode user setting json")
 
 <br />
 
