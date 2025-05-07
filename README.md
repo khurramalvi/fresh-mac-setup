@@ -161,7 +161,7 @@ To display all nerd fonts
 brew search nerd-font
 ```
 
-Install Hack Nert Font
+Install Hack Nerd Font
 
 ```zsh
 brew install --cask font-hack-nerd-font
@@ -212,13 +212,11 @@ alias lta3="eza -lTag --level=3 --icons"
 
 <br />
 
-### Install Git: [Website](https://git-scm.com/) | [Mac](https://git-scm.com/download/mac) | [Windows](https://git-scm.com/download/win) | [Linux](https://git-scm.com/download/linux)
+### Install [Git](https://git-scm.com/)
 
 Git is a free, open-source distributed version control system that manages projects of all sizes efficiently.
 
 To install Git, please execute the command below:
-
-- [ ] 
 
 ```zsh
 brew install git
