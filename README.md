@@ -320,6 +320,22 @@ brew install --cask pixelsnap
 mas install 1362171212
 ```
 
+- [ ] Speediness: [Website](https://sindresorhus.com/speediness) | [Mac](https://apps.apple.com/app/id1596706466)
+
+- [ ] Hidden Bar: [Website](https://superbits.co/hidden/) | [Mac](https://itunes.apple.com/app/hidden-bar/id1452453066)
+
+```zsh
+brew install --cask hiddenbar
+```
+
+- [ ] Transnomino: [Website](https://www.transnomino.com) | [Mac](https://www.transnomino.com)
+
+```zsh
+brew install --cask transnomino
+```
+
+- [ ] Folder Peek: [Website](https://sindresorhus.com/folder-peek) | [Mac](https://apps.apple.com/app/id1615988943)
+
 - [ ] Disk Sensei 💲: [Website](https://cindori.com/sensei) | [Mac](https://cdn.cindori.com/apps/sensei/Sensei.dmg)
 - [ ] BlueHarvest 💲: [Website](http://www.zeroonetwenty.com/blueharvest/) | [Mac](https://apps.apple.com/gb/app/blueharvest/id739483376?mt=12)
 
@@ -332,6 +348,8 @@ brew install --cask blueharvest
 ```zsh
 brew install --cask the-unarchiver
 ```
+
+- [ ] System Color Picker: [Website](https://sindresorhus.com/system-color-picker) | [Mac](https://apps.apple.com/app/id1545870783)
 
 - [ ] LG onScreen Control: [Website](https://www.lg.com/us/support/help-library/lg-monitor-how-to-use-on-screen-control-CT30017683-20153186454352)
 
@@ -739,6 +757,12 @@ brew install --cask screenflow
 
 ```zsh
 brew install --cask cleanshot
+```
+
+- [ ] Shottr 💲: [Website](https://shottr.cc) | [Mac](https://shottr.cc)
+
+```zsh
+brew install --cask shottr
 ```
 
 - [ ] FocuSee 💲: [Website](https://gemoo.com/focusee/) | [Mac](https://gemoo.com/focusee/) | [Windows](https://gemoo.com/focusee/)
