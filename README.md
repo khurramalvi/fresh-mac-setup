@@ -308,10 +308,30 @@ brew install --cask rocket
 mas install 441258766
 ```
 
+- [ ] Latest: [Website](https://max.codes/latest/) | [Mac](https://max.codes/latest/)
+
+```zsh
+brew install --cask latest
+```
+
+- [ ] Dropover: [Website](https://dropoverapp.com) | [Mac](https://itunes.apple.com/us/app/dropover/id1355679052?mt=12)
+
 - [ ] PixelSnap 2 💲: [Website](https://getpixelsnap.com/) | [Mac](https://getpixelsnap.com/)
 
 ```zsh
 brew install --cask pixelsnap
+```
+
+- [ ] Intellidock: [Website](https://mightymac.app/intellidock/) | [Mac](https://mightymac.app/intellidock/)
+
+```zsh
+brew install --cask intellidock
+```
+
+- [ ] SelfControl: [Website](https://selfcontrolapp.com) | [Mac](https://selfcontrolapp.com)
+
+```zsh
+brew install --cask selfcontrol
 ```
 
 - [ ] Caffeinated 💲: [Website](https://caffeinated.app/) | [Mac](https://apps.apple.com/gb/app/caffeinated-anti-sleep-app/id1362171212?mt=12)
@@ -394,6 +414,12 @@ brew install --cask waltr
 
 ```zsh
 brew install --cask wallpaper-wizard
+```
+
+- [ ] MonitorControl Lite: [Website](https://github.com/MonitorControl/MonitorControl) | [Mac](https://apps.apple.com/us/app/monitorcontrol-lite/id1595464182?mt=12)
+
+```zsh
+brew install --cask monitorcontrol
 ```
 
 - [ ] ChatGPT: [Website](https://chatgpt.com/) | [Mac](https://persistent.oaistatic.com/sidekick/public/ChatGPT.dmg) | [iPhone](https://apps.apple.com/us/app/chatgpt/id6448311069) | [Android](https://play.google.com/store/apps/details?id=com.openai.chatgpt&pcampaignid=web_share)
@@ -716,7 +742,7 @@ brew install --cask adapter
 brew install handbrake
 ```
 
-- [ ] Cisdem Video Player: [Website](https://www.cisdem.com/video-player.html) | [Mac](https://www.cisdem.com/video-player.html) | [Windows](https://www.cisdem.com/video-player.html)
+- [ ] IINA Video Player: [Website](https://iina.io) | [Mac](https://iina.io)
 - [ ] Capcut: [Website](https://www.capcut.com/) | [Mac](https://www.capcut.com/download-guidance) | [Windows](https://www.capcut.com/download-guidance) | [iPhone](https://apps.apple.com/us/app/capcut/id1500855883) | [Android](https://play.google.com/store/apps/details)
 
 ```zsh
