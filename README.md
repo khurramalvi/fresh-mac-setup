@@ -561,6 +561,8 @@ brew install --cask google-chrome
 brew install --cask vivaldi
 ```
 
+- [ ] Default Browser 💲: [Website](https://sindresorhus.com/default-browser) | [Mac](https://sindresorhus.com/default-browser)
+
 ### Web Development Tools
 
 - [ ] HackMD: [Website](https://hackmd.io/)
