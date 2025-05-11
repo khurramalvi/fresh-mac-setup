@@ -291,6 +291,12 @@ mas install 614530344
 brew install --cask funter
 ```
 
+- [ ] Clyde: [Website](https://theclyde.app/) | [Mac](https://theclyde.app/)
+
+```zsh
+brew install --cask funter
+```
+
 - [ ] Gemini 2: [Website](https://macpaw.com/gemini) | [Mac](https://macpaw.com/gemini)
 
 ```zsh
