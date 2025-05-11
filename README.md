@@ -660,6 +660,24 @@ brew install --cask squash
 brew install --cask figma
 ```
 
+- [ ] Affinity Designer 2 💲: [Website](https://affinity.serif.com/en-gb/designer/) | macOS | Windows | iPadOS
+
+```zsh
+brew install --cask affinity-designer
+```
+
+- [ ] Affinity Photo 2 💲: [Website](https://affinity.serif.com/en-gb/photo/) | macOS | Windows | iPadOS
+
+```zsh
+brew install --cask affinity-photo
+```
+
+- [ ] Affinity Publisher 2 💲: [Website](https://affinity.serif.com/en-gb/publisher/) | macOS | Windows | iPadOS
+
+```zsh
+brew install --cask affinity-publisher
+```
+
 - [ ] Miro 💲: [Website](https://miro.com/) | [Mac](https://miro.com/apps/) | [Windows](https://miro.com/apps/) | [iPhone](https://apps.apple.com/us/app/miro-collaborative-whiteboard/id1180074773) | [Android](https://play.google.com/store/apps/details?id=com.realtimeboard) | [Chrome](https://chrome.google.com/webstore/detail/miro-web-clipper/ecfnenchgjbicgaooadfdmcojkcmjblk)
 
 ```zsh
