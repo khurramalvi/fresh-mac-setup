@@ -279,6 +279,12 @@ brew install wget
 
 ### Utitlies
 
+- [ ] Exiftool: [Website](https://exiftool.org)
+
+```zsh
+brew install exiftool
+```
+
 - [ ] Resize This: [Mac](https://itunes.apple.com/gb/app/resize-this/id614530344)
 
 ```zsh
@@ -979,4 +985,35 @@ How to make TextEdit open with a blank file by default?
 
 ```zsh
 System Prefrences > iCloud > iCloud Drive ( Options ) > uncheck textEdit
+```
+
+<br />
+
+## Read, write and edit meta information
+
+The ExifTool allows you to view, write, and edit metadata of media or any file, which is extremely helpful when you don't want to share personal data while sharing images, PDFS, and other files on the web or with friends.
+
+View all metadata for a specific file.
+
+```zsh
+exiftool some.pdf
+```
+
+Remove all attributes from the file.
+
+```zsh
+exiftool -all= some.pdf
+```
+
+Remove extended attributes from the file.
+
+```zsh
+xattr -c some.pdf
+```
+
+If you fancy UI, then there are also free online tools available that could help you achieve the same, but there is no guarantee that your file will remain private.
+
+```zsh
+https://www.pdfyeah.com/remove-pdf-metadata/
+https://www.sejda.com/edit-pdf-metadata
 ```
