@@ -517,11 +517,7 @@ brew install --cask windscribe
 brew install --cask cyberghost-vpn
 ```
 
-- [ ] Private Internet Access 💲: [Website](https://www.privateinternetaccess.com/) | [Mac](https://www.privateinternetaccess.com/download/mac-vpn) | [Windows](https://www.privateinternetaccess.com/download/windows-vpn) | [iPhone](https://apps.apple.com/us/app/private-internet-access-anonymous/id955626407) | [Android](https://play.google.com/store/apps/details?id=com.privateinternetaccess.android&hl=en) | [Chrome](https://chrome.google.com/webstore/detail/private-internet-access/jplnlifepflhkbkgonidnobkakhmpnmh)
-
-```zsh
-brew install --cask private-internet-access
-```
+- [ ] Real VPN 💲: [Website](https://www.realvpn.io) | [Mac](https://www.realvpn.io/download) | [Windows](https://www.realvpn.io/download) | [iPhone](https://www.realvpn.io/download) | [Android](https://www.realvpn.io/download) | [Chrome](https://www.realvpn.io/download)
 
 ### Browsers
 
