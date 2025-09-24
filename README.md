@@ -428,6 +428,8 @@ brew install --cask waltr
 brew install --cask wallpaper-wizard
 ```
 
+- [ ] Insta360 Link Controller: [Website](https://store.insta360.com/product/link-2) | [Mac](https://www.insta360.com/download/insta360-link) | [Windows](https://www.insta360.com/download/insta360-link)
+
 - [ ] MonitorControl Lite: [Website](https://github.com/MonitorControl/MonitorControl) | [Mac](https://apps.apple.com/us/app/monitorcontrol-lite/id1595464182?mt=12)
 
 ```zsh
