@@ -465,6 +465,12 @@ mas install 302584613
 brew install --cask pdf-expert
 ```
 
+- [ ] UPDF 💲: [Website](https://updf.com) | [Mac](https://updf.com/download/) | [Windows](https://updf.com/download/) | [iPhone](https://apps.apple.com/us/app/updf-ai-powered-pdf-editor/id1595826623) | [Android](https://play.google.com/store/apps/details?id=com.superace.updf)
+
+```zsh
+brew install --cask updf
+```
+
 - [ ] PDFgear: [Website](https://www.pdfgear.com) | [Mac](https://apps.apple.com/app/apple-store/id6469021132?os=mac&lang=en&cid=home_top_download_bar) | [Windows](https://www.pdfgear.com/pdfgear-for-windows/) | [iPhone](https://www.pdfgear.com/pdfgear-for-ios/) | [Android](https://www.pdfgear.com/pdfgear-for-android/)
 
 - [ ] LocalSend: [Website](https://localsend.org/) | [Mac](https://localsend.org/download) | [Windows](https://localsend.org/download) | [iPhone](https://localsend.org/download) | [Android](https://localsend.org/download)
