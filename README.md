@@ -285,12 +285,6 @@ brew install wget
 brew install exiftool
 ```
 
-- [ ] Wolow: [Website](https://wolow.site) | [iPhone](https://apps.apple.com/app/id1500970060) | [Android](https://play.google.com/store/apps/details?id=com.wolow)
-
-- [ ] Off - Shutdown and Wake On Lan: [Website](https://bridgetech.io/Off.html) | [iPhone](https://apps.apple.com/us/app/off-remote-computer-shutdown/id529923825) | [Android](https://play.google.com/store/apps/details?id=com.bridgetech.off)
-
-- [ ] Chat Camp: [Website](https://chat.camp) | [Mac](https://apps.apple.com/pk/app/chat-camp/id6753970144) | [iPhone](https://chat.camp)
-
 - [ ] Resize This: [Mac](https://itunes.apple.com/gb/app/resize-this/id614530344)
 
 ```zsh
@@ -388,6 +382,12 @@ brew install --cask the-unarchiver
 ```
 
 - [ ] System Color Picker: [Website](https://sindresorhus.com/system-color-picker) | [Mac](https://apps.apple.com/app/id1545870783)
+
+- [ ] Wolow: [Website](https://wolow.site) | [iPhone](https://apps.apple.com/app/id1500970060) | [Android](https://play.google.com/store/apps/details?id=com.wolow)
+
+- [ ] Chat Camp: [Website](https://chat.camp) | [Mac](https://apps.apple.com/pk/app/chat-camp/id6753970144) | [iPhone](https://chat.camp)
+
+- [ ] Off - Shutdown and Wake On Lan: [Website](https://bridgetech.io/Off.html) | [iPhone](https://apps.apple.com/us/app/off-remote-computer-shutdown/id529923825) | [Android](https://play.google.com/store/apps/details?id=com.bridgetech.off)
 
 - [ ] LG onScreen Control: [Website](https://www.lg.com/us/support/help-library/lg-monitor-how-to-use-on-screen-control-CT30017683-20153186454352)
 
