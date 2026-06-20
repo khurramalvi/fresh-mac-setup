@@ -277,7 +277,7 @@ brew install mas
 brew install wget
 ```
 
-### Utitlies
+### Utilities
 
 - [ ] Exiftool: [Website](https://exiftool.org)
 
@@ -380,6 +380,8 @@ brew install --cask blueharvest
 ```zsh
 brew install --cask the-unarchiver
 ```
+
+- [ ] HP Print and Support: [Website](https://support.hp.com/us-en/printer) | [iPhone](https://apps.apple.com/pk/app/hp-print-and-support/id1474276998?mt=12) | [Android](https://play.google.com/store/apps/details?id=com.hp.printercontrol&hl=en)
 
 - [ ] System Color Picker: [Website](https://sindresorhus.com/system-color-picker) | [Mac](https://apps.apple.com/app/id1545870783)
 
