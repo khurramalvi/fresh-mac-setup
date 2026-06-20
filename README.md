@@ -285,6 +285,12 @@ brew install wget
 brew install exiftool
 ```
 
+- [ ] Wolow: [Website](https://wolow.site) | [iPhone](https://apps.apple.com/app/id1500970060) | [Android](https://play.google.com/store/apps/details?id=com.wolow)
+
+- [ ] Off - Shutdown and Wake On Lan: [Website](https://bridgetech.io/Off.html) | [iPhone](https://apps.apple.com/us/app/off-remote-computer-shutdown/id529923825) | [Android](https://play.google.com/store/apps/details?id=com.bridgetech.off)
+
+- [ ] Chat Camp: [Website](https://chat.camp) | [Mac](https://apps.apple.com/pk/app/chat-camp/id6753970144) | [iPhone](https://chat.camp)
+
 - [ ] Resize This: [Mac](https://itunes.apple.com/gb/app/resize-this/id614530344)
 
 ```zsh
