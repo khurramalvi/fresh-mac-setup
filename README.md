@@ -381,8 +381,6 @@ brew install --cask blueharvest
 brew install --cask the-unarchiver
 ```
 
-- [ ] HP Print and Support: [Website](https://support.hp.com/us-en/printer) | [iPhone](https://apps.apple.com/pk/app/hp-print-and-support/id1474276998?mt=12) | [Android](https://play.google.com/store/apps/details?id=com.hp.printercontrol&hl=en)
-
 - [ ] System Color Picker: [Website](https://sindresorhus.com/system-color-picker) | [Mac](https://apps.apple.com/app/id1545870783)
 
 - [ ] LG onScreen Control: [Website](https://www.lg.com/us/support/help-library/lg-monitor-how-to-use-on-screen-control-CT30017683-20153186454352)
@@ -430,8 +428,6 @@ brew install --cask waltr
 brew install --cask wallpaper-wizard
 ```
 
-- [ ] Insta360 Link Controller: [Website](https://store.insta360.com/product/link-2) | [Mac](https://www.insta360.com/download/insta360-link) | [Windows](https://www.insta360.com/download/insta360-link)
-
 - [ ] MonitorControl Lite: [Website](https://github.com/MonitorControl/MonitorControl) | [Mac](https://apps.apple.com/us/app/monitorcontrol-lite/id1595464182?mt=12)
 
 ```zsh
@@ -461,6 +457,10 @@ brew install --cask waltr-heic-converter
 ```zsh
 mas install 302584613
 ```
+
+- [ ] Insta360 Link Controller: [Website](https://store.insta360.com/product/link-2) | [Mac](https://www.insta360.com/download/insta360-link) | [Windows](https://www.insta360.com/download/insta360-link)
+
+- [ ] HP Print and Support: [Website](https://support.hp.com/us-en/printer) | [iPhone](https://apps.apple.com/pk/app/hp-print-and-support/id1474276998?mt=12) | [Android](https://play.google.com/store/apps/details?id=com.hp.printercontrol&hl=en)
 
 - [ ] Spotify: [Website](https://www.spotify.com/) | [Mac](https://www.spotify.com/us/download/mac/) | [Windows](https://www.spotify.com/de-en/download/windows/) | [iPhone](https://spotify.link/h5TbcGLLkhb?label=sp_cid%3Aa6b2e28d-37d6-413e-8ec6-73e3c6a6dc89) | [Android](https://spotify.link/T1vKH6Kr9ib?label=sp_cid%3Aa6b2e28d-37d6-413e-8ec6-73e3c6a6dc89)
 - [ ] PDF Expert 💲: [Website](https://pdfexpert.com/) | [Mac v3.4](https://pdfexpert.com/downloads) | [iPhone](https://apps.apple.com/gb/app/pdf-expert-editor-reader/id743974925) | [Android](https://play.google.com/store/apps/details?id=com.pdfexpert.advancedpdfmaker)
