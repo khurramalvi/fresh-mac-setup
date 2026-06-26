@@ -835,6 +835,12 @@ brew install --cask teamviewer
 
 ### Email Clients
 
+- [ ] Canary Mail: [Website](https://canarymail.io) | [Mac](https://apps.apple.com/us/app/canary-mail-app/id1236045954?mt=12) | [iPhone](https://apps.apple.com/us/app/canary-mail-ai-email/id1155470386) | [Android](https://play.google.com/store/apps/details?id=io.canarymail.android) | [Windows](https://apps.microsoft.com/detail/9mt5mz5h9wl6?hl=en-GB&gl=PK) 
+
+```zsh
+mas install 1236045954
+```
+
 - [ ] Edison Mail: [Website](https://www.edisonmail.com/) | [Mac](https://apps.apple.com/gb/app/edison-mail-email/id1489591003?mt=12) | [iPhone](https://apps.apple.com/us/app/email-edison-mail/id922793622?ppid=eb424e3b-2db1-4b53-b3c1-d02f6030878b) | [Android](https://play.google.com/store/apps/details?id=com.easilydo.mail&listing=edisonmailwebsite)
 
 ```zsh
